@@ -1,0 +1,19 @@
+Trace:
+  PipeMarkers:
+  - red rarrow
+  - blue circle
+  - green diamond
+  - orange circle
+  - blue rarrow
+  - yellow circle
+  - red larrow
+  PipeStages:
+  - Fetch
+  - Decode
+  - Rename
+  - Dispatch
+  - Execute
+  - Complete
+  - Retire
+  TraceFile: 1500k_log2.log
+  TraceFormat: SimEng
